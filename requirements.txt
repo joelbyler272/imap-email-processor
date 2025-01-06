@@ -1,7 +1,1 @@
-pandas>=2.0.0
-python-dotenv>=1.0.0
-loguru>=0.7.0
-schedule>=1.2.0
-openpyxl>=3.1.0
-jinja2>=3.1.0
-SQLAlchemy>=2.0.0
+{"encoding": "base64", "content": "cGFuZGFzPj0yLjAuMApweXRob24tZG90ZW52Pj0xLjAuMApsb2d1cnU+PTAuNy4wCnNjaGVkdWxlPj0xLjIuMApvcGVucHhsPj0zLjEuMApqaW5qYTI+PTMuMS4wClNRTEFsY2hlbXk+PTIuMC4w"}
